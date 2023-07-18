@@ -1,0 +1,178 @@
+2.0L I4 16V Gdi Dohc Turbo	20431
+3.6L V6 24V Mpfi Dohc	11088
+3.6L V6 24V Gdi Dohc	7385
+4 Cylinder Engine	5381
+2.4L I4 16V Gdi Dohc	5325
+5.7L V8 16V Mpfi Ohv	4419
+2.5L I4 16V Gdi Dohc	4166
+V6 Cylinder Engine	3883
+2.0L I4 16V Mpfi Dohc	3718
+1.5L I4 16V Gdi Dohc Turbo	3480
+5.3L V8 16V Gdi Ohv	3454
+3.0L I6 24V Gdi Dohc Turbo	3196
+3.5L V6 24V Mpfi Dohc	3179
+3.5L V6 24V Gdi Sohc	2983
+2.0L I4 16V Gdi Dohc	2940
+3.5L V6 24V Pdi Dohc	2907
+2.5L I4 16V Mpfi Dohc	2593
+3.0L V6 24V Gdi Dohc Twin Turbo	2472
+6.2L V8 16V Gdi Ohv	2438
+8 Cylinder Engine	2248
+3.5L V6 24V Gdi Dohc	2235
+5.6L V8 32V Gdi Dohc	1768
+2.4L I4 16V Mpfi Sohc	1715
+2.5L I4 16V Pdi Dohc	1571
+3.6L V6 24V Mpfi Dohc Flexible Fuel	1551
+6.7L I6 24V Ddi Ohv Turbo Diesel	1512
+2.0L I4 16V Pdi Dohc Turbo	1504
+6.4L V8 16V Mpfi Ohv	1498
+2.4L I4 16V Mpfi Dohc	1489
+1.8L I4 16V Mpfi Dohc	1483
+3.5L V6 24V Pdi Dohc Twin Turbo	1459
+3.0L V6 24V Gdi Dohc Turbo	1381
+2.5L H4 16V Mpfi Dohc	1372
+3.0L V6 24V Gdi Dohc Supercharged	1369
+1.4L I4 16V Gdi Dohc Turbo	1314
+I4	1303
+2.5L H4 16V Gdi Dohc	1296
+1.4L I4 16V Mpfi Dohc Turbo	1289
+1.6L I4 16V Gdi Dohc Turbo	1255
+3.5L V6 24V Gdi Dohc Twin Turbo	1234
+3.8L V6 24V Gdi Dohc	1109
+2.4L H4 16V Gdi Dohc Turbo	1105
+4.0L V6 24V Mpfi Dohc	1095
+3.7L V6 24V Mpfi Dohc	1065
+4.4L V8 32V Gdi Dohc Twin Turbo	1063
+3.5L V6 24V Mpfi Sohc	1061
+4.0L V8 32V Gdi Dohc Twin Turbo	1043
+2.3L I4 16V Gdi Dohc Turbo	918
+6.6L V8 32V Ddi Ohv Turbo Diesel	905
+2.5L I4 16V Gdi Dohc Turbo	894
+3.0L V6 24V Ddi Dohc Turbo Diesel	847
+1.8L I4 16V Mpfi Dohc Hybrid	771
+1.8L I4 16V Mpfi Sohc	771
+2.0L H4 16V Gdi Dohc	767
+2.5L I4 16V Pdi Dohc Hybrid	745
+3.3L V6 24V Gdi Dohc	738
+1.6L I4 16V Gdi Dohc	735
+2.0L I4 16V Gdi Dohc Turbo Hybrid	718
+5.7L V8 32V Mpfi Dohc	702
+1.8L I4 16V Gdi Dohc Turbo	695
+V6	664
+1.6L I4 16V Mpfi Dohc	660
+6.7L V8 32V Ddi Ohv Turbo Diesel	649
+5.0L V8 32V Pdi Dohc	566
+3.6L V6 24V Mpfi Dohc Hybrid	547
+V8	544
+4.6L V8 32V Mpfi Dohc	523
+4.7L V8 32V Gdi Dohc Twin Turbo	497
+2.7L V6 24V Gdi Dohc Twin Turbo	486
+3.2L V6 24V Mpfi Dohc	469
+Straight 6 Cylinder Engine	442
+2.0L I4 16V Gdi Dohc Turbo Flexible Fuel	441
+Other	414
+2.0L I4 16V Mpfi Dohc Hybrid	413
+2.5L I4 16V	412
+2.7L V6 24V Pdi Dohc Twin Turbo	409
+2.5L I4 16V Pdi Dohc Turbo	398
+2.0L I4 16V Gdi Dohc Hybrid	390
+5.0L V8 32V Gdi Dohc Supercharged	376
+2.0L H4 16V Mpfi Dohc	372
+3.0L I6 24V Gdi Dohc Twin Turbo	372
+3.0L I6 24V Ddi Dohc Turbo Diesel	364
+2.5L I4 16V Mpfi Dohc Hybrid	356
+1.3L I3 12V Gdi Dohc Turbo	352
+2.0L I4 16V Ddi Dohc Turbo Diesel	331
+2.0L H4 16V Gdi Dohc Turbo	321
+1.2L I3 12V Mpfi Dohc	312
+6.2L V8 16V Mpfi Ohv Supercharged	305
+1.6L I4 16V Gdi Dohc Hybrid	302
+5.3L V8 16V Mpfi Ohv Flexible Fuel	284
+5.0L V8 32V Mpfi Dohc	270
+2.7L I4 16V Gdi Dohc Turbo	268
+3.0L H6 24V Gdi Dohc Twin Turbo	252
+Intercooled Turbo Premium Unleaded I-4 2.0 L/122	250
+6.2L V8 16V Mpfi Sohc Flexible Fuel	244
+2.9L V6 24V Gdi Dohc Twin Turbo	243
+4 Cylinder	229
+2.4L I4 16V Mpfi Dohc Hybrid	228
+3.6L V6 24V Gdi Dohc Flexible Fuel	225
+Regular Unleaded V-6 3.6 L/220	221
+2.0L I4 16V Pdi Dohc	213
+5.3L V8 16V Mpfi Ohv	213
+6.0L V8 16V Mpfi Ohv	206
+5.5L V8 32V Gdi Dohc Twin Turbo	201
+2.4L I4 16V Pdi Dohc Turbo	200
+1.6L I4 16V Gdi Dohc Turbo Hybrid	199
+2.7L I4 16V Mpfi Dohc	195
+3.5L V6 24V Gdi Dohc Flexible Fuel	188
+3.5L V6 24V Mpfi Dohc Flexible Fuel	188
+1.5L I4 16V Gdi Dohc	187
+1.5L I4 16V Mpfi Dohc Hybrid	186
+6.6L V8 16V Gdi Ohv	182
+1.2L I3 12V Gdi Dohc Turbo	176
+2.5L I5 20V Mpfi Dohc	174
+2.0L I4 16V Gdi Dohc Flexible Fuel	171
+2.5L H4 16V Mpfi Dohc Turbo	169
+3.6L V6 24V Gdi Dohc Twin Turbo	162
+1.5L I3 12V Pdi Dohc Turbo	161
+5.0L V8 32V Mpfi Dohc Flexible Fuel	157
+6.0L V8 16V Mpfi Ohv Flexible Fuel	155
+3.5L V6 24V Pdi Dohc Hybrid	151
+2.0L	146
+2.0L I4 16V Pdi Dohc Hybrid	144
+6.2L V8 16V Mpfi Ohv	139
+3.6L H6 24V Mpfi Dohc	138
+2.5L	134
+2.0L I4 16V	131
+Regular Unleaded I-4 2.5 L/152	131
+5.6L V8 32V Mpfi Dohc	130
+3.3L V6 24V Gdi Dohc Twin Turbo	129
+3.5L V6 24V Pdi Dohc Twin Turbo Hybrid	124
+5.3L V8 16V Gdi Ohv Flexible Fuel	123
+3 Cylinder Engine	119
+4.3L V6 12V Gdi Ohv Flexible Fuel	117
+4.8L V8 16V Mpfi Ohv	116
+3.8L H6 24V Gdi Dohc Twin Turbo	113
+Intercooled Turbo Premium Unleaded I-4 2.0 L/121	113
+4.0L H6 24V Gdi Dohc	109
+6.2L V8 16V Gdi Ohv Supercharged	109
+1.3L I3 12V Mpfi Dohc Turbo	103
+Regular Unleaded I-4 2.4 L/144	97
+2.5L I5 20V Mpfi Dohc Turbo	95
+Regular Unleaded I-4 2.0 L/122	95
+I-4 Cyl	94
+5.0L V8 32V Ddi Dohc Turbo Diesel	93
+3.7L V6 24V Mpfi Sohc	88
+5.0L V8 32V Gdi Dohc	88
+1.5L I3 12V Gdi Dohc Turbo	87
+2.5L V6 24V Pdi Dohc	83
+3.8L H6 24V Gdi Dohc	82
+3.7L V6 24V Mpfi Dohc Flexible Fuel	80
+Intercooled Turbo Regular Unleaded I-4 1.5 L/91	72
+2.0L I4	70
+5.4L V8 24V Mpfi Sohc Flexible Fuel	67
+2.5L I4 16V Gdi Dohc Flexible Fuel	66
+3.0L V6 24V Gdi Dohc Turbo Hybrid	66
+1.6L I4 16V Pdi Dohc	65
+2.0L H4 16V Pdi Dohc	65
+3.0L I6 24V Mpfi Dohc	65
+1.5L I4 16V Mpfi Sohc	64
+3.0L V6 24V Gdi Dohc	64
+1.3L I4 16V Gdi Sohc Turbo	63
+6.2L V8 16V Mpfi Ohv Flexible Fuel	63
+Regular Unleaded V-6 3.5 L/212	63
+4.6L V8 32V Pdi Dohc	62
+3.6L V6 24V Vvt	61
+Electric	61
+3.6L V6 Gdi Dohc	60
+Regular Unleaded V-6 3.5 L/211	60
+6.2L V8 16V Mpfi Sohc	59
+3.7L V6 12V Mpfi Sohc	57
+Regular Unleaded V-8 5.7 L/345	57
+3.0L I6 24V Mpfi Dohc Turbo	55
+1.5L I4 16V Gdi Dohc Hybrid	54
+Flat 6 Cylinder Engine	54
+Intercooled Turbo Gas/Electric I-6 3.0 L/183	54
+Intercooled Turbo Regular Unleaded I-4 2.5 L/152	51
+Premium Unleaded V-6 3.5 L/212	50
