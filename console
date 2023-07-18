@@ -1,0 +1,20 @@
+show databases;
+use nd;
+select * from tb_car where cid=1;
+
+select mpg from tb_car group by mpg having count(mpg)>50;
+//在mr中需要对mpg进行的数据清洗：
+//1.去除全部为字符串类型的参数（如 Blue Accents")和空值
+//2.去除所有存在0的和超过100的（两个数-->一个数，一个数直接舍去）
+//如果有两个数，那两个数取平均数计算；如果有一个数，那直接取该数字
+
+select cengine ,count(cengine) as sum from tb_car group by cengine having count(cengine)>50;
+
+//不做数据处理，筛选存在数目多于一定值(50)的进行展示,用sql就能做
+
+
+
+select max(mileage) from tb_car ;
+//区间隔开比较好
+
+
